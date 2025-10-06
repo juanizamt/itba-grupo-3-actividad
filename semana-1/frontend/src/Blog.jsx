@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Post from './Post';
-import NewPostForm from './NewPostForm'; // Importa el componente del formulario
+import NewPostForm from './NuevoPost'; // Importa el componente del formulario
 
 const API_URL = 'http://localhost:3001/api/posts';
 
